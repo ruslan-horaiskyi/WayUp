@@ -121,7 +121,7 @@ const  myName      = (firstName, lastName) => {
     console.log(fullName);
 };
 
-myName ("Ruslan", "Horayskiy");
+myName ("Ruslan", "Horaiskiy");
 
 /* 
     Задание 5:
